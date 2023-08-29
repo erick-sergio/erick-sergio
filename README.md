@@ -1,6 +1,6 @@
 <h1> Olá tudo bem? Eu sou o Erick Sergio <h1/>
 <h2> Seja bem vindo(a) ao meu repositório! <h2/>
-Sou um desenvolvedor mobile apaixonado por tecnologia <br/>
+<h3> Sou um desenvolvedor mobile apaixonado por tecnologia <h3/> <br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erick-sergio&theme=midnight-purple&show_icons=true&hide_rank=true)](https://github.com/erick-sergio/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erick-sergio&layout=compact&theme=midnight-purple)](https://github.com/erick-sergio/github-readme-stats)<br/>
