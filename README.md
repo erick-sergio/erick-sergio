@@ -11,8 +11,8 @@
 ##
     
 ### Tecnologias utilizadas nos Projetos
-<div style="display: flex" justify-content="center">
-  <img height=40 widgth=280 align="center" border_width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />     
+<div style="display:flex">
+  <img height=40 widgth=280 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />     
   <img height=35 widgth=280 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img height=35 widgth=280 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />     
   <img height=35 widgth=280 align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />      
